@@ -1,0 +1,17 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="main.Vodjanova01" />
+          <option value="PyQt5.*" />
+          <option value="turtle.pendown.read_csv" />
+          <option value="tensorflow_hub" />
+          <option value="tensorflow_text" />
+          <option value="main.official" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
